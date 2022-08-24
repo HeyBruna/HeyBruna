@@ -35,8 +35,7 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 <hr>
 
 ### Descrição do meu objetivo:
-- Estou competindo na Olimpíada Brasileira de Informática (OBI)
-- 
+- Ingressar na Oimpíada Iternacional de Iformática (IOI)
 <hr>
 
 ### Tempo de estudo de Py⏲️:
